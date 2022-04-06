@@ -1,0 +1,13 @@
+.admin h1 {
+  margin: 20px;
+}
+.admin h2 {
+  margin: 20px;
+}
+.admin .tab {
+  padding: 30px;
+  background-color: rgb(112, 82, 45);
+}
+.admin * {
+  font-size: 25px !important;
+}
