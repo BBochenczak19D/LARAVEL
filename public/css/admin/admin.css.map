@@ -1,0 +1,1 @@
+{"version":3,"file":"css/admin/admin.css","mappings":"AAII,oBACI,WAAR,C","sources":["webpack:///./resources/sass/admin.scss"],"sourcesContent":[".admin{\n    h1{\n        margin: 20px;\n    }\n    h2{\n        margin: 20px;\n    }\n}\n"],"names":[],"sourceRoot":""}
